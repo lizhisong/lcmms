@@ -1,0 +1,19 @@
+*.class
+# Package Files #
+*.jar
+*.war
+*.ear
+logs/
+target/
+www/
+.myeclipse/
+.mymetadata/
+mainPage/
+bin/
+docs/
+.classpath
+.cvsignore
+.project
+/bin/
+/.settings/
+
